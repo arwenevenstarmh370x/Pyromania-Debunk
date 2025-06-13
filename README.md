@@ -18,7 +18,7 @@ Pyromania Debunk MH370 Scammers - frame replacement trick on Pond5. Fabrications
 <img width="787" alt="image" src="https://github.com/user-attachments/assets/a89add0a-7022-423a-a967-adc4cec5e53c" />
 
 
-### Waverider 3000 / TJPowell's & Bakertuts fabricated version uploaded by Cenobite_78 ( and alt accounts) ( Uploaded to Web Archive
+### Waverider 3000 / TJPowell's & Bakertuts fabricated version ( Uploaded to Web Archive)
 ## Original frames 0001 (2nd frame, does not have RA effect)
 ![frame_00001](https://github.com/user-attachments/assets/eb08ee9a-1c45-4b81-ac35-8e6df8924695)
 
