@@ -18,7 +18,8 @@ Pyromania Debunk - Edited frames reveal blast effect from RegicideAnon satellite
 <img width="787" alt="image" src="https://github.com/user-attachments/assets/a89add0a-7022-423a-a967-adc4cec5e53c" />
 
 
-## Waverider3000 Web Archive upload January 25, 2023 - #### Debunkers manipulated version
+## Waverider3000 Web Archive upload January 25, 2023 - 
+## (Debunkers manipulated version)
 #### Original frames - Frame 0001 (2nd frame, does NOT have blast shape from RegicideAnon satellite video) frame 0002 (3rd frame), 0003 (4th frame), 0004 (5th frame)
 ![frame_00001](https://github.com/user-attachments/assets/eb08ee9a-1c45-4b81-ac35-8e6df8924695)
 
