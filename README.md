@@ -1,5 +1,5 @@
 # Pyromania-Debunk
-Pyromania Debunk MH370 Scammers - frame replacement trick on Pond5. Fabrications that run deep
+Pyromania Debunk - Edited frames reveal blast effect from RegicideAnon satellite video (Frame 1313) inserted into a manipulated version of Pyromania's Shockwave
 
 
 ## 2021 POND5 version
