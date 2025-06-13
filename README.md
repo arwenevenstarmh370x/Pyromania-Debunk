@@ -2,9 +2,9 @@
 Pyromania Debunk - Edited frames reveal blast effect from RegicideAnon satellite video (Frame 1313) inserted into a manipulated version of Pyromania's Shockwave
 
 
-## 2021 POND5 version
+<p align="center"> ## 2021 POND5 version
 
-### Original frames
+<p align="center"> ### Original frames
 ##### Frame_00001 (2nd frame)
 ![frame_00001](https://github.com/user-attachments/assets/a336af27-72ca-4434-b055-0e3211e9bd72)
 ##### Frame_00002 (3rd frame)
@@ -40,9 +40,13 @@ Pyromania Debunk - Edited frames reveal blast effect from RegicideAnon satellite
 ![frame_00002](https://github.com/user-attachments/assets/4f33143d-93ff-4fd6-83e6-f110f3165614)
 
 ### Embossed versions
+##### Frame 0001 (2nd frame) - Does NOT have blast shape from RegicideAnon satellite video
 <img width="751" alt="image" src="https://github.com/user-attachments/assets/490c7d10-5485-4816-994b-3b3fec274cb7" />
+##### Frame 0002 (3rd frame)
 <img width="751" alt="image" src="https://github.com/user-attachments/assets/76f36116-8e50-4809-8bc2-fe5fead5ccc9" />
+##### Frame 0003 (4th frame)
 <img width="751" alt="image" src="https://github.com/user-attachments/assets/241126bf-7549-42df-a263-185d6931b6df" />
+##### Frame 0004 (5th frame)
 <img width="751" alt="image" src="https://github.com/user-attachments/assets/358be8fd-0353-4824-b6e6-987750551376" />
 
 
