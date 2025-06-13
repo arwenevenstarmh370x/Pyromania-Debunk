@@ -3,7 +3,7 @@ Pyromania Debunk - Edited frames reveal blast effect from RegicideAnon satellite
 
 
 ## 2021 POND5 version
-#### Original frames - 
+### Original frames
 ##### Frame_00001 (2nd frame)
 ![frame_00001](https://github.com/user-attachments/assets/a336af27-72ca-4434-b055-0e3211e9bd72)
 ##### Frame_00002 (3rd frame)
@@ -14,12 +14,14 @@ Pyromania Debunk - Edited frames reveal blast effect from RegicideAnon satellite
 ![frame_00004](https://github.com/user-attachments/assets/6599fb8f-d5f9-4392-bc84-671ce6d2c5aa)
 
 ### Embossed versions
+##### Frame_00001 (2nd frame)
 <img width="1052" alt="image" src="https://github.com/user-attachments/assets/3a0c4c1c-82a6-4c0a-8e47-d995fe57ee16" />
-
+##### Frame_00002 (3rd frame)
 <img width="787" alt="image" src="https://github.com/user-attachments/assets/dee039ef-eacb-447c-83b0-9e9e757e7ff9" />
+##### Frame_00003 (4th frame)
 <img width="787" alt="image" src="https://github.com/user-attachments/assets/6a2a5ac8-d0f6-4b1f-b989-706769e6a645" />
+##### Frame_00004 (5th frame)
 <img width="787" alt="image" src="https://github.com/user-attachments/assets/a89add0a-7022-423a-a967-adc4cec5e53c" />
-
 
 ## Waverider3000 Web Archive upload January 25, 2023 - (Debunkers manipulated version)
 #### Original frames - Frame 0001 (2nd frame, does NOT have blast shape from RegicideAnon satellite video) frame 0002 (3rd frame), 0003 (4th frame), 0004 (5th frame)
