@@ -1,6 +1,11 @@
 # Pyromania-Debunk
 Pyromania Debunk - Edited frames reveal blast effect from RegicideAnon satellite video (Frame 1313) inserted into a manipulated version of Pyromania's Shockwave
 
+fabricated and inserted frames show up in Pyromania shockwave in post 2016 videos, including waverider and Bakertuts exhibits.
+
+original version found 2014 and pre 2014 do not show any fabrications.
+
+--------------------------------
 
 ## 2021 POND5 version
 
