@@ -5,6 +5,7 @@ Pyromania Debunk - Edited frames reveal blast effect from RegicideAnon satellite
 ## 2021 POND5 version
 
 ### Original frames
+
 ##### Frame_00001 (2nd frame)
 ![frame_00001](https://github.com/user-attachments/assets/a336af27-72ca-4434-b055-0e3211e9bd72)
 ##### Frame_00002 (3rd frame)
@@ -15,6 +16,7 @@ Pyromania Debunk - Edited frames reveal blast effect from RegicideAnon satellite
 ![frame_00004](https://github.com/user-attachments/assets/6599fb8f-d5f9-4392-bc84-671ce6d2c5aa)
 
 ### Embossed frames
+
 ##### Frame_00001 (2nd frame)
 <img width="787" alt="image" src="https://github.com/user-attachments/assets/3a0c4c1c-82a6-4c0a-8e47-d995fe57ee16" />
 ##### Frame_00002 (3rd frame)
@@ -29,18 +31,15 @@ Pyromania Debunk - Edited frames reveal blast effect from RegicideAnon satellite
 
 ##### Frame 0001 (2nd frame) - Does NOT have blast shape from RegicideAnon satellite video
 ![frame_00001](https://github.com/user-attachments/assets/eb08ee9a-1c45-4b81-ac35-8e6df8924695)
-
 ##### Frame 0002 (3rd frame)
 ![frame_00002](https://github.com/user-attachments/assets/4f33143d-93ff-4fd6-83e6-f110f3165614)
-
 ##### Frame 0003 (4th frame)
 ![frame_00003](https://github.com/user-attachments/assets/8a389860-c01d-485f-9230-4b464d5908f4)
-
 ##### Frame 0004 (5th frame)
 ![frame_00004](https://github.com/user-attachments/assets/887d5652-4c68-4f9c-a00d-5fe6376b409e)
 
 
-### Embossed versions
+### Embossed
 ##### Frame 0001 (2nd frame) - Does NOT have blast shape from RegicideAnon satellite video
 <img width="751" alt="image" src="https://github.com/user-attachments/assets/490c7d10-5485-4816-994b-3b3fec274cb7" />
 ##### Frame 0002 (3rd frame)
@@ -54,6 +53,7 @@ Pyromania Debunk - Edited frames reveal blast effect from RegicideAnon satellite
 ## 2009 POND5 version (Source: YouTube upload December 14, 2014)
 
 ### Original frames 
+
 ##### Frame 01 (2nd frame)
 ![frame_001](https://github.com/user-attachments/assets/db600bd6-7d9b-4430-8149-6c89fa9bf78f)
 ##### Frame 02 (3rd frame)
@@ -67,14 +67,15 @@ Pyromania Debunk - Edited frames reveal blast effect from RegicideAnon satellite
 
 ### Embossed versions
 
+##### Frame 01 (2nd frame)
 <img width="772" alt="image" src="https://github.com/user-attachments/assets/0ff8176d-31bb-4646-8681-23dfc38f11ad" />
-
+##### Frame 02 (3rd frame)
 <img width="1052" alt="image" src="https://github.com/user-attachments/assets/99bce199-6625-46f9-bf0b-c94283785578" />
-
+##### Frame 03 (4th frame)
 <img width="1052" alt="image" src="https://github.com/user-attachments/assets/75bf1334-ed5e-4755-833f-5b637a64bf23" />
-
+##### Frame 04 (5th frame)
 <img width="1052" alt="image" src="https://github.com/user-attachments/assets/ebfa0074-ac96-40ef-ba2d-fef88401b424" />
-
+##### Frame 05 (6th frame)
 <img width="1052" alt="image" src="https://github.com/user-attachments/assets/37f497e0-df21-4e46-90d4-d83dc78c03d9" />
 
 
