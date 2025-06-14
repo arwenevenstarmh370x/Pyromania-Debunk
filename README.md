@@ -29,7 +29,19 @@ Scammers have employed increasingly sophisticated tactics, inserting RegicideAno
 <img width="963" alt="image" src="https://github.com/user-attachments/assets/33f0bd17-70cb-4a00-92fa-1356953c7b02" />
 
 
+### Fabricated 2021 Pond5 & Waverider3000 uploads sequence is a **textbook case of frame insertion manipulation:**
 
+#### Frame 1:
+You can see non-natural, clustered dots above the main shockwave—these match features from the RegicideAnon video, not the original shockwave propagation.
+
+#### Frame 2:
+Those dots remain, and the shockwave edge pattern persists. This is inconsistent with genuine explosive or wave propagation, where the shock front and all secondary effects must change frame to frame as energy dissipates or interacts with the medium.
+
+#### Frame 3:
+Despite further evolution, artifacts (dots, internal ring segmentation, persistent local noise) remain almost locked, rather than evolving smoothly.
+
+### Key forensic observation:
+Shockwave propagation—especially in controlled media (fluid, smoke, fire)—is never static or repeated between frames. Each frame should show progressive, radial movement and noise evolution. Here, critical internal structures (dots, ring discontinuities) are artificially “locked in,” proof that external content (from RegicideAnon) was overlaid onto a genuine effect and recycled in multiple sequential frames. This is only possible by compositing or direct frame insertion, and impossible in any natural shockwave scenario, which is evident from the natural wave progrssion of 2009 Pyromania version. 
 
 
 
