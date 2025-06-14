@@ -10,9 +10,9 @@ Every serious investigation into scammer tactics uncovers the same playbook:
 3. Respond to scrutiny with harassment and doxing.
 4. When challenged, provide flawed technical assessments to dismiss legitimate concerns.
 5. Block independent investigation of the planted artifacts, relying on "trust me bro" appeals instead of transparency.
-6. This report details one such case: the Pyromania debunk.
+6. This report details one such case: The Pyromania debunk.
 7. Use this as a guide to recognize scammer patterns, understand their methods, and draw your own conclusions.
-8. Original Pyromania versions from 2014 and earlier show no signs of fabrication.
+
 ```
 
 
