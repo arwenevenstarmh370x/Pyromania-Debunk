@@ -1,9 +1,23 @@
 # Pyromania-Debunk
-Pyromania Debunk - Edited frames reveal blast effect from RegicideAnon satellite video (Frame 1313) inserted into a manipulated version of Pyromania's Shockwave
+Pyromania Debunk - EEdited frames reveal that the blast effect from RegicideAnon's satellite video (Frame 1313) was inserted into a manipulated version of Pyromania’s shockwave.
 
-fabricated and inserted frames show up in Pyromania shockwave in post 2016 videos, including waverider and Bakertuts exhibits.
+Scammers have employed increasingly sophisticated tactics, inserting RegicideAnon satellite video frames (notably Frame 1313) into the Pyromania shockwave effect to create convincing fakes. Manipulated Pyromania frames—first appearing in the Web Archive as early as 2021—are recycled and repurposed in subsequent exhibits, including Waverider and Bakertuts.
 
-original version found 2014 and pre 2014 do not show any fabrications.
+Every serious investigation into scammer tactics uncovers the same playbook:
+```
+1. Fabricate evidence and subtly insert it into existing artifacts to falsely suggest the asset predates 2014.
+2. Launch disinformation campaigns using VFX videos, mockery, and coordinated attacks.
+3. Respond to scrutiny with harassment and doxing.
+4. When challenged, provide flawed technical assessments to dismiss legitimate concerns.
+5. Block independent investigation of the planted artifacts, relying on "trust me bro" appeals instead of transparency.
+6. This report details one such case: the Pyromania debunk.
+7. Use this as a guide to recognize scammer patterns, understand their methods, and draw your own conclusions.
+8. Original Pyromania versions from 2014 and earlier show no signs of fabrication.
+```
+
+
+
+Original Pyromania version found 2014 and pre 2014 do not show any fabrications.
 
 --------------------------------
 
