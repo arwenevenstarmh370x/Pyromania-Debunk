@@ -60,9 +60,9 @@ Pyromania Debunk - Edited frames reveal blast effect from RegicideAnon satellite
 ![frame_002](https://github.com/user-attachments/assets/eed7a1f9-d1f4-467d-93cb-7ee0257274b7)
 ##### Frame 03 (3rd frame)
 ![frame_003](https://github.com/user-attachments/assets/33bd4579-5ede-49ea-85a2-d948cc167a9a)
-##### Frame 04 (3rd frame)
+##### Frame 04 (5th frame)
 ![frame_004](https://github.com/user-attachments/assets/5b05b502-c4be-4dba-9b7a-93ed1173af3b)
-##### Frame x (x frame)
+##### Frame 05 (6th frame)
 ![frame_005](https://github.com/user-attachments/assets/ff0cf460-5a12-4671-846c-9f6dd3c2264e)
 
 ### Embossed versions
