@@ -1,5 +1,5 @@
 # Pyromania-Debunk
-Pyromania Debunk - EEdited frames reveal that the blast effect from RegicideAnon's satellite video (Frame 1313) was inserted into a manipulated version of Pyromania’s shockwave.
+Pyromania Debunk - Edited frames reveal that the blast effect from RegicideAnon's satellite video (Frame 1313) was inserted into a manipulated version of Pyromania’s shockwave.
 
 Scammers have employed increasingly sophisticated tactics, inserting RegicideAnon satellite video frames (notably Frame 1313) into the Pyromania shockwave effect to create convincing fakes. Manipulated Pyromania frames—first appearing in the Web Archive as early as 2021—are recycled and repurposed in subsequent exhibits, including Waverider and Bakertuts.
 
