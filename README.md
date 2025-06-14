@@ -54,13 +54,15 @@ Pyromania Debunk - Edited frames reveal blast effect from RegicideAnon satellite
 ## 2009 POND5 version (Source: YouTube upload December 14, 2014)
 
 ### Original frames 
+##### Frame 01 (2nd frame)
 ![frame_001](https://github.com/user-attachments/assets/db600bd6-7d9b-4430-8149-6c89fa9bf78f)
+##### Frame 02 (3rd frame)
 ![frame_002](https://github.com/user-attachments/assets/eed7a1f9-d1f4-467d-93cb-7ee0257274b7)
-
+##### Frame 03 (3rd frame)
 ![frame_003](https://github.com/user-attachments/assets/33bd4579-5ede-49ea-85a2-d948cc167a9a)
-
+##### Frame 04 (3rd frame)
 ![frame_004](https://github.com/user-attachments/assets/5b05b502-c4be-4dba-9b7a-93ed1173af3b)
-
+##### Frame x (x frame)
 ![frame_005](https://github.com/user-attachments/assets/ff0cf460-5a12-4671-846c-9f6dd3c2264e)
 
 ### Embossed versions
@@ -72,6 +74,7 @@ Pyromania Debunk - Edited frames reveal blast effect from RegicideAnon satellite
 <img width="1052" alt="image" src="https://github.com/user-attachments/assets/75bf1334-ed5e-4755-833f-5b637a64bf23" />
 
 <img width="1052" alt="image" src="https://github.com/user-attachments/assets/ebfa0074-ac96-40ef-ba2d-fef88401b424" />
+
 <img width="1052" alt="image" src="https://github.com/user-attachments/assets/37f497e0-df21-4e46-90d4-d83dc78c03d9" />
 
 
