@@ -1,9 +1,12 @@
-# Pyromania-Debunk
+# Pyromania-Debunk & Scammer tactics revealed
 Pyromania Debunk - Edited frames reveal that the blast effect from RegicideAnon's satellite video (Frame 1313) was inserted into a manipulated version of Pyromania’s shockwave.
 
 Scammers have employed increasingly sophisticated tactics, inserting RegicideAnon satellite video frames (notably Frame 1313) into the Pyromania shockwave effect to create convincing fakes. Manipulated Pyromania frames—first appearing in the Web Archive as early as 2021—are recycled and repurposed in subsequent exhibits, including Waverider and Bakertuts.
 
-Every serious investigation into scammer tactics uncovers the same playbook:
+### Original Pyromania version found 2014 and pre 2014 do not show any fabrications.
+
+### Every serious investigation into scammer tactics uncovers the same playbook:
+
 ```
 1. Fabricate evidence and subtly insert it into existing artifacts to falsely suggest the asset predates 2014.
 2. Launch disinformation campaigns using VFX videos, mockery, and coordinated attacks.
@@ -16,8 +19,22 @@ Every serious investigation into scammer tactics uncovers the same playbook:
 ```
 
 
+## Real Unedited Pyromania by VCE Films. 
+<img width="963" alt="image" src="https://github.com/user-attachments/assets/48a3c3dd-7902-4d90-b718-eb65d086861a" />
 
-Original Pyromania version found 2014 and pre 2014 do not show any fabrications.
+## Heavily fabricated Versions
+
+<img width="963" alt="image" src="https://github.com/user-attachments/assets/7114815c-1f66-4cc1-88e8-9878b7f816b6" />
+
+<img width="963" alt="image" src="https://github.com/user-attachments/assets/33f0bd17-70cb-4a00-92fa-1356953c7b02" />
+
+
+
+
+
+
+
+
 
 --------------------------------
 
@@ -38,11 +55,17 @@ Original Pyromania version found 2014 and pre 2014 do not show any fabrications.
 
 ##### Frame_00001 (2nd frame)
 <img width="787" alt="image" src="https://github.com/user-attachments/assets/3a0c4c1c-82a6-4c0a-8e47-d995fe57ee16" />
+
 ##### Frame_00002 (3rd frame)
+
 <img width="787" alt="image" src="https://github.com/user-attachments/assets/dee039ef-eacb-447c-83b0-9e9e757e7ff9" />
+
 ##### Frame_00003 (4th frame)
+
 <img width="787" alt="image" src="https://github.com/user-attachments/assets/6a2a5ac8-d0f6-4b1f-b989-706769e6a645" />
+
 ##### Frame_00004 (5th frame)
+
 <img width="787" alt="image" src="https://github.com/user-attachments/assets/a89add0a-7022-423a-a967-adc4cec5e53c" />
 
 ## Waverider3000 Web Archive upload January 25, 2023 - (Debunkers manipulated version)
@@ -50,6 +73,11 @@ Original Pyromania version found 2014 and pre 2014 do not show any fabrications.
 
 ##### Frame 0001 (2nd frame) - Does NOT have blast shape from RegicideAnon satellite video
 ![frame_00001](https://github.com/user-attachments/assets/eb08ee9a-1c45-4b81-ac35-8e6df8924695)
+
+
+
+
+
 ##### Frame 0002 (3rd frame)
 ![frame_00002](https://github.com/user-attachments/assets/4f33143d-93ff-4fd6-83e6-f110f3165614)
 ##### Frame 0003 (4th frame)
@@ -60,12 +88,19 @@ Original Pyromania version found 2014 and pre 2014 do not show any fabrications.
 
 ### Embossed
 ##### Frame 0001 (2nd frame) - Does NOT have blast shape from RegicideAnon satellite video
+
 <img width="751" alt="image" src="https://github.com/user-attachments/assets/490c7d10-5485-4816-994b-3b3fec274cb7" />
+
 ##### Frame 0002 (3rd frame)
+
 <img width="751" alt="image" src="https://github.com/user-attachments/assets/76f36116-8e50-4809-8bc2-fe5fead5ccc9" />
+
 ##### Frame 0003 (4th frame)
+
 <img width="751" alt="image" src="https://github.com/user-attachments/assets/241126bf-7549-42df-a263-185d6931b6df" />
+
 ##### Frame 0004 (5th frame)
+
 <img width="751" alt="image" src="https://github.com/user-attachments/assets/358be8fd-0353-4824-b6e6-987750551376" />
 
 
@@ -87,14 +122,23 @@ Original Pyromania version found 2014 and pre 2014 do not show any fabrications.
 ### Embossed versions
 
 ##### Frame 01 (2nd frame)
+
 <img width="772" alt="image" src="https://github.com/user-attachments/assets/0ff8176d-31bb-4646-8681-23dfc38f11ad" />
+
 ##### Frame 02 (3rd frame)
+
 <img width="1052" alt="image" src="https://github.com/user-attachments/assets/99bce199-6625-46f9-bf0b-c94283785578" />
+
 ##### Frame 03 (4th frame)
+
 <img width="1052" alt="image" src="https://github.com/user-attachments/assets/75bf1334-ed5e-4755-833f-5b637a64bf23" />
+
 ##### Frame 04 (5th frame)
+
 <img width="1052" alt="image" src="https://github.com/user-attachments/assets/ebfa0074-ac96-40ef-ba2d-fef88401b424" />
+
 ##### Frame 05 (6th frame)
+
 <img width="1052" alt="image" src="https://github.com/user-attachments/assets/37f497e0-df21-4e46-90d4-d83dc78c03d9" />
 
 
